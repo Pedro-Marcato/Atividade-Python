@@ -1,3 +1,8 @@
+#Turma:ADSDM2CB
+#Participantes: 
+#Pedro Araújo Marcato, 2324291026
+#Carlos Eduardo Moura Abe, 2324291011
+
 Vendas = {}
 N = int(input("Em quantos dias da semana houve vendas: "))
 
